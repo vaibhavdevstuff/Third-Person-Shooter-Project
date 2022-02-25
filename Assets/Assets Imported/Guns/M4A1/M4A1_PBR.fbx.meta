@@ -1,0 +1,589 @@
+fileFormatVersion: 2
+guid: bb17bb05ddca39941ae82f6297532e62
+ModelImporter:
+  serializedVersion: 20200
+  internalIDToNameTable:
+  - first:
+      1: 100000
+    second: Bolt
+  - first:
+      1: 100002
+    second: Bolt_end
+  - first:
+      1: 100004
+    second: Button
+  - first:
+      1: 100006
+    second: Button_end
+  - first:
+      1: 100008
+    second: DustCover
+  - first:
+      1: 100010
+    second: DustCover_end
+  - first:
+      1: 100012
+    second: Gun
+  - first:
+      1: 100014
+    second: Handle
+  - first:
+      1: 100016
+    second: Handle_end
+  - first:
+      1: 100018
+    second: M4A1
+  - first:
+      1: 100020
+    second: M4A1_Barrel
+  - first:
+      1: 100022
+    second: M4A1_Bolt
+  - first:
+      1: 100024
+    second: M4A1_BoltFwdAsst
+  - first:
+      1: 100026
+    second: M4A1_DustCover
+  - first:
+      1: 100028
+    second: M4A1_FrontSight
+  - first:
+      1: 100030
+    second: M4A1_Grip
+  - first:
+      1: 100032
+    second: M4A1_Handguard
+  - first:
+      1: 100034
+    second: M4A1_Handguard_m
+  - first:
+      1: 100036
+    second: M4A1_Handle
+  - first:
+      1: 100038
+    second: M4A1_Magazine
+  - first:
+      1: 100040
+    second: M4A1_MagCatch
+  - first:
+      1: 100042
+    second: M4A1_RearSight
+  - first:
+      1: 100044
+    second: M4A1_Receiver
+  - first:
+      1: 100046
+    second: //RootNode
+  - first:
+      1: 100048
+    second: M4A1_Stock
+  - first:
+      1: 100050
+    second: Magazine
+  - first:
+      1: 100052
+    second: Magazine_end
+  - first:
+      1: 100054
+    second: MagCatch
+  - first:
+      1: 100056
+    second: MagCatch_end
+  - first:
+      1: 100058
+    second: Selector
+  - first:
+      1: 100060
+    second: Selector_end
+  - first:
+      1: 100062
+    second: Stock
+  - first:
+      1: 100064
+    second: Stock_end
+  - first:
+      1: 100066
+    second: Trigger
+  - first:
+      1: 100068
+    second: Trigger_end
+  - first:
+      4: 400000
+    second: Bolt
+  - first:
+      4: 400002
+    second: Bolt_end
+  - first:
+      4: 400004
+    second: Button
+  - first:
+      4: 400006
+    second: Button_end
+  - first:
+      4: 400008
+    second: DustCover
+  - first:
+      4: 400010
+    second: DustCover_end
+  - first:
+      4: 400012
+    second: Gun
+  - first:
+      4: 400014
+    second: Handle
+  - first:
+      4: 400016
+    second: Handle_end
+  - first:
+      4: 400018
+    second: M4A1
+  - first:
+      4: 400020
+    second: M4A1_Barrel
+  - first:
+      4: 400022
+    second: M4A1_Bolt
+  - first:
+      4: 400024
+    second: M4A1_BoltFwdAsst
+  - first:
+      4: 400026
+    second: M4A1_DustCover
+  - first:
+      4: 400028
+    second: M4A1_FrontSight
+  - first:
+      4: 400030
+    second: M4A1_Grip
+  - first:
+      4: 400032
+    second: M4A1_Handguard
+  - first:
+      4: 400034
+    second: M4A1_Handguard_m
+  - first:
+      4: 400036
+    second: M4A1_Handle
+  - first:
+      4: 400038
+    second: M4A1_Magazine
+  - first:
+      4: 400040
+    second: M4A1_MagCatch
+  - first:
+      4: 400042
+    second: M4A1_RearSight
+  - first:
+      4: 400044
+    second: M4A1_Receiver
+  - first:
+      4: 400046
+    second: //RootNode
+  - first:
+      4: 400048
+    second: M4A1_Stock
+  - first:
+      4: 400050
+    second: Magazine
+  - first:
+      4: 400052
+    second: Magazine_end
+  - first:
+      4: 400054
+    second: MagCatch
+  - first:
+      4: 400056
+    second: MagCatch_end
+  - first:
+      4: 400058
+    second: Selector
+  - first:
+      4: 400060
+    second: Selector_end
+  - first:
+      4: 400062
+    second: Stock
+  - first:
+      4: 400064
+    second: Stock_end
+  - first:
+      4: 400066
+    second: Trigger
+  - first:
+      4: 400068
+    second: Trigger_end
+  - first:
+      43: 4300000
+    second: M4A1_Handguard_m
+  - first:
+      43: 4300002
+    second: M4A1_Barrel
+  - first:
+      43: 4300004
+    second: M4A1_Bolt
+  - first:
+      43: 4300006
+    second: M4A1_BoltFwdAsst
+  - first:
+      43: 4300008
+    second: M4A1_DustCover
+  - first:
+      43: 4300010
+    second: M4A1_FrontSight
+  - first:
+      43: 4300012
+    second: M4A1_Grip
+  - first:
+      43: 4300014
+    second: M4A1_Handguard
+  - first:
+      43: 4300016
+    second: M4A1_Handle
+  - first:
+      43: 4300018
+    second: M4A1_MagCatch
+  - first:
+      43: 4300020
+    second: M4A1_Magazine
+  - first:
+      43: 4300022
+    second: M4A1_RearSight
+  - first:
+      43: 4300024
+    second: M4A1_Receiver
+  - first:
+      43: 4300026
+    second: M4A1_Stock
+  - first:
+      74: 7400000
+    second: M4A1|Bolt_Fire
+  - first:
+      74: 7400002
+    second: M4A1|BoltClosed
+  - first:
+      74: 7400004
+    second: M4A1|BoltOpen
+  - first:
+      74: 7400006
+    second: M4A1|DustCoverClosed
+  - first:
+      74: 7400008
+    second: M4A1|DustCoverOpen
+  - first:
+      95: 9500000
+    second: //RootNode
+  - first:
+      137: 13700000
+    second: M4A1_Barrel
+  - first:
+      137: 13700002
+    second: M4A1_Bolt
+  - first:
+      137: 13700004
+    second: M4A1_BoltFwdAsst
+  - first:
+      137: 13700006
+    second: M4A1_DustCover
+  - first:
+      137: 13700008
+    second: M4A1_FrontSight
+  - first:
+      137: 13700010
+    second: M4A1_Grip
+  - first:
+      137: 13700012
+    second: M4A1_Handguard
+  - first:
+      137: 13700014
+    second: M4A1_Handguard_m
+  - first:
+      137: 13700016
+    second: M4A1_Handle
+  - first:
+      137: 13700018
+    second: M4A1_Magazine
+  - first:
+      137: 13700020
+    second: M4A1_MagCatch
+  - first:
+      137: 13700022
+    second: M4A1_RearSight
+  - first:
+      137: 13700024
+    second: M4A1_Receiver
+  - first:
+      137: 13700026
+    second: M4A1_Stock
+  externalObjects: {}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    fileIdsGeneration: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 0
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 0
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton:
+    - name: M4A1_PBR(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: M4A1
+      parentName: M4A1_PBR(Clone)
+      position: {x: -0, y: 0.09, z: 0.25}
+      rotation: {x: 1, y: -0, z: 0, w: 0.00000013315805}
+      scale: {x: 100, y: 100, z: 100}
+    - name: Gun
+      parentName: M4A1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.70710695, y: -0, z: -0, w: -0.7071067}
+      scale: {x: 1, y: 1.0000023, z: 1.0000023}
+    - name: DustCover
+      parentName: Gun
+      position: {x: -0.00017033692, y: 0.0013368102, z: -0.000054373504}
+      rotation: {x: -0.000000030908616, y: 0.7071069, z: 0.70710677, w: -0.00000003090862}
+      scale: {x: 1.0000049, y: 0.9999999, z: 1.0000046}
+    - name: DustCover_end
+      parentName: DustCover
+      position: {x: -0, y: 0.00018000002, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Selector
+      parentName: Gun
+      position: {x: 0.000131738, y: 0.0002930732, z: -0.0003460194}
+      rotation: {x: -0.0000001359731, y: -0.63864106, z: 0.768842, w: -0.03193195}
+      scale: {x: 1.0000054, y: 1.0000036, z: 1.0000036}
+    - name: Selector_end
+      parentName: Selector
+      position: {x: -0, y: 0.00021000001, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Button
+      parentName: Gun
+      position: {x: 0.00017922226, y: 0.0010050025, z: -0.00019883961}
+      rotation: {x: -0.000000030908616, y: 0.7071069, z: 0.70710677, w: -0.00000003090862}
+      scale: {x: 1.0000049, y: 0.9999999, z: 1.0000046}
+    - name: Button_end
+      parentName: Button
+      position: {x: -0, y: 0.00018000002, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Trigger
+      parentName: Gun
+      position: {x: -2.384186e-10, y: 0.00067399646, z: -0.00047861633}
+      rotation: {x: -0.00000022197244, y: -0.7071068, z: 0.7071068, w: 0.00000022197244}
+      scale: {x: 1.0000051, y: 1.0000051, z: 0.9999999}
+    - name: Trigger_end
+      parentName: Trigger
+      position: {x: -0, y: 0.00032000002, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Stock
+      parentName: Gun
+      position: {x: -0, y: -0.0017738851, z: 0.000024469764}
+      rotation: {x: -1.4210853e-14, y: -1, z: -0, w: 0.00000019470716}
+      scale: {x: 1.0000054, y: 1.0000036, z: 1.0000036}
+    - name: Stock_end
+      parentName: Stock
+      position: {x: -0, y: 0.0009999999, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Bolt
+      parentName: Gun
+      position: {x: 0.000017092389, y: 0.0012907976, z: 0.00006345308}
+      rotation: {x: -1.4210853e-14, y: -1, z: -0, w: 0.00000019470716}
+      scale: {x: 1.0000054, y: 1.0000036, z: 1.0000036}
+    - name: Bolt_end
+      parentName: Bolt
+      position: {x: -0, y: 0.0004000001, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Handle
+      parentName: Gun
+      position: {x: 0.0000002678633, y: -0.00013379753, z: 0.00028974554}
+      rotation: {x: 0.00000010389851, y: -0.8457279, z: -0.5336143, w: 0.0000001646693}
+      scale: {x: 1.0000054, y: 1.0000036, z: 1.0000036}
+    - name: Handle_end
+      parentName: Handle
+      position: {x: -0, y: 0.0005, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MagCatch
+      parentName: Gun
+      position: {x: -0.00021047807, y: 0.0010090626, z: -0.00037565638}
+      rotation: {x: 0.50000006, y: 0.50000006, z: 0.49999994, w: -0.49999994}
+      scale: {x: 1.0000044, y: 1.0000031, z: 1.0000063}
+    - name: MagCatch_end
+      parentName: MagCatch
+      position: {x: -0, y: 0.00032000002, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Magazine
+      parentName: M4A1
+      position: {x: 0.000000705123, y: 0.0009682043, z: 0.0014555423}
+      rotation: {x: -9.066011e-24, y: 0.00000010434783, z: -1, w: -6.1232336e-17}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Magazine_end
+      parentName: Magazine
+      position: {x: -0, y: 0.00048000008, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: M4A1_Handguard_m
+      parentName: M4A1_PBR(Clone)
+      position: {x: -0, y: -0.000000010927848, z: 0.000000003934025}
+      rotation: {x: 0.000000014901161, y: 0, z: -0, w: 1}
+      scale: {x: 100, y: 100, z: 100}
+    - name: M4A1_Barrel
+      parentName: M4A1_PBR(Clone)
+      position: {x: -0, y: -0.000000010927848, z: 0.000000003934025}
+      rotation: {x: 0.000000014901161, y: 0, z: -0, w: 1}
+      scale: {x: 100, y: 100, z: 100}
+    - name: M4A1_Bolt
+      parentName: M4A1_PBR(Clone)
+      position: {x: 0.0017092389, y: 0.096345305, z: 0.12092025}
+      rotation: {x: 0.000000014901161, y: 0, z: -0, w: 1}
+      scale: {x: 100, y: 100, z: 100}
+    - name: M4A1_BoltFwdAsst
+      parentName: M4A1_PBR(Clone)
+      position: {x: -0.013013438, y: 0.09174003, z: 0.22008508}
+      rotation: {x: 0.000000014888906, y: -0.16488624, z: 0.000000005897116, w: 0.9863126}
+      scale: {x: 10.61944, y: 10.61944, z: 38.77168}
+    - name: M4A1_DustCover
+      parentName: M4A1_PBR(Clone)
+      position: {x: -0.017033692, y: 0.08456265, z: 0.11631899}
+      rotation: {x: 0.000000014901161, y: 0, z: -0, w: 1}
+      scale: {x: 100, y: 100, z: 100}
+    - name: M4A1_FrontSight
+      parentName: M4A1_PBR(Clone)
+      position: {x: -0.00000001937151, y: 0.09244695, z: -0.17876822}
+      rotation: {x: 0.000000014901161, y: 0, z: -0, w: 1}
+      scale: {x: 11.368044, y: 11.368044, z: 11.368044}
+    - name: M4A1_Grip
+      parentName: M4A1_PBR(Clone)
+      position: {x: -0, y: 0.009598859, z: 0.0000000035144454}
+      rotation: {x: 0.000000014901161, y: 0, z: -0, w: 1}
+      scale: {x: 100, y: 100, z: 100}
+    - name: M4A1_Handguard
+      parentName: M4A1_PBR(Clone)
+      position: {x: -0, y: -0.000000010927848, z: 0.000000003934025}
+      rotation: {x: 0.000000014901161, y: 0, z: -0, w: 1}
+      scale: {x: 100, y: 100, z: 100}
+    - name: M4A1_Handle
+      parentName: M4A1_PBR(Clone)
+      position: {x: 0.000026786329, y: 0.11897456, z: 0.22337978}
+      rotation: {x: 0.000000014901161, y: 0, z: -0, w: 1}
+      scale: {x: 100, y: 100, z: 100}
+    - name: M4A1_MagCatch
+      parentName: M4A1_PBR(Clone)
+      position: {x: -0, y: -0.000000010927848, z: 0.000000003934025}
+      rotation: {x: 0.000000014901161, y: 0, z: -0, w: 1}
+      scale: {x: 100, y: 100, z: 100}
+    - name: M4A1_Magazine
+      parentName: M4A1_PBR(Clone)
+      position: {x: 0.000070512295, y: 0.01317957, z: 0.10444581}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 10.812679, y: 33.01873, z: 32}
+    - name: M4A1_RearSight
+      parentName: M4A1_PBR(Clone)
+      position: {x: -0.000000028777873, y: 0.16341102, z: 0.21970937}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 39.999996, y: 39.999996, z: 39.999996}
+    - name: M4A1_Receiver
+      parentName: M4A1_PBR(Clone)
+      position: {x: -0, y: -0.000000010927848, z: 0.000000003934025}
+      rotation: {x: 0.000000014901161, y: 0, z: -0, w: 1}
+      scale: {x: 100, y: 100, z: 100}
+    - name: M4A1_Stock
+      parentName: M4A1_PBR(Clone)
+      position: {x: -0, y: 0.09244699, z: 0.3773885}
+      rotation: {x: 0.000000014901161, y: 0, z: -0, w: 1}
+      scale: {x: 100, y: 100, z: 100}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 0.1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
